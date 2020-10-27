@@ -1,0 +1,28 @@
+
+Enric PR clustered ranges:
+Range(start=0, end=42287856, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012B_TauPlusX.root', 'root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Range(start=6640348, end=51303171, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Enric PR benchmark over 1000 executions: 0.0407 +- 0.0191 seconds
+
+Master clustered ranges:
+Range(start=0, end=42287856, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012B_TauPlusX.root', 'root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Range(start=6640348, end=51303171, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Master benchmark over 1000 executions: 0.0395 +- 0.0257 seconds
+
+OneListComp clustered ranges:
+Range(start=0, end=42287856, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012B_TauPlusX.root', 'root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Range(start=6640348, end=51303171, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+OneListComp benchmark over 1000 executions: 0.0407 +- 0.0251 seconds
+
+Vincenzo PR clustered ranges:
+Range(start=0, end=42287856, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012B_TauPlusX.root', 'root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Range(start=6640348, end=51303171, filelist=['root://eospublic.cern.ch//eos/opendata/cms/derived-data/AOD2NanoAODOutreachTool/Run2012C_TauPlusX.root'], friend_info=None)
+
+Vincenzo PR benchmark over 1000 executions: 0.0401 +- 0.018 seconds
